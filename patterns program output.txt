@@ -1,0 +1,7 @@
+enter the number of rows5
+*
+**
+***
+****
+*****
+> 
